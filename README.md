@@ -5,15 +5,7 @@ Facial emotion detection is a technology that identifies human emotions from fac
 To develop a facial emotion recognition system that can automatically detect human emotions such as happy, sad, angry, surprise, neutral, etc. from facial expressions using a Convolutional Neural Network (CNN) and a web camera.
 
 2. Tools & Libraries Used
-   | Category         | Library / Tool              | Purpose                               |
-| ---------------- | --------------------------- | ------------------------------------- |
-| Core Language    | **Python 3.8+**             | Programming language                  |
-| Deep Learning    | **TensorFlow / Keras**      | CNN model building and training       |
-| Image Processing | **OpenCV (cv2)**            | Face detection and webcam integration |
-| Data Handling    | **NumPy**, **Pandas**       | Managing arrays and data              |
-| Visualization    | **Matplotlib**, **Seaborn** | Plotting accuracy and loss graphs     |
-| Utilities        | **os**, **glob**, **tqdm**  | File handling and progress tracking   |
-| Environment      | **Anaconda / virtualenv**   | To create a clean Python environment  |
+<img width="902" height="215" alt="image" src="https://github.com/user-attachments/assets/f3de39fd-9454-4f6b-a5f8-87b4e10a8c0e" />
 
 3. Dataset Collection
 The dataset used is FER2013 (Facial Expression Recognition 2013) available on Kaggle.
